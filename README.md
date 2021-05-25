@@ -1,9 +1,9 @@
 ## Welcome to Apty Session repo
 
-This is collections of examples and sample code that we have discussed and written examples. 
+This is the collection of examples and sample code that we have discussed and written examples for. 
 
 ## Contribution Guidelines
-1. Always start folder name number, which helps the order in which one can start. 
+1. Always start the folder name number, which helps the order in which one can start.
     ```
     ├── ...
     ├── 01-JavaScript                
